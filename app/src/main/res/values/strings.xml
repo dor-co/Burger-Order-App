@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">BurgerApp</string>
+    <string name="total_payment">Total (NIS):</string>
+    <string name="order_number">Choose delivery or pick up:</string>
+    <string name="order_complete">Order complete!</string>
+    <string name="total_pay_dialog">"Total payment: "</string>
+    <string name="adds_dialog">"Adds: "</string>
+    <string name="drinks_dialog">"Drinks: "</string>
+    <string name="delivery_dialog">Delivery:</string>
+    <string name="ok_dialog">ok</string>
+    <string name="delivery_main">delivery (10 NIS)</string>
+    <string name="pickup_main">pick up (free)</string>
+    <string name="drink_main">Choose drink:</string>
+    <string name="cola_main">coca-cola</string>
+    <string name="sprite_main">sprite</string>
+    <string name="fanta_main">fanta</string>
+    <string name="grape_main">grape juice</string>
+    <string name="adds_main">Choose additions:</string>
+    <string name="fries_main">french fries</string>
+    <string name="potato_main">potato wedges</string>
+    <string name="edit_meal_main">Edit meal:</string>
+    <string name="tomato_main">with tomato</string>
+    <string name="onion_main">with onion</string>
+    <string name="lettuce_main">with lettuce</string>
+    <string name="pickle_main">with pickle</string>
+    <string name="confirm_main">CONFIRM ORDER</string>
+    <string name="tomato_list">tomato</string>
+    <string name="onion_list">onion</string>
+    <string name="lettuce_list">lettuce</string>
+    <string name="pickle_list">pickle</string>
+    <string name="choose_with_tomato">You choose with tomato</string>
+    <string name="choose_with_onion">You choose with onion</string>
+    <string name="choose_with_lettuce">You choose with lettuce</string>
+    <string name="choose_with_pickle">You choose with pickle</string>
+    <string name="choose_without_tomato">You choose without tomato</string>
+    <string name="choose_without_onion">You choose without onion</string>
+    <string name="choose_without_lettuce">You choose without lettuce</string>
+    <string name="choose_without_pickle">You choose without pickle</string>
+    <string name="delivery_toast">You choose delivery option</string>
+    <string name="pickup_toast">You choose pick up option</string>
+    <string name="cola_toast">You choose coca-cola drink</string>
+    <string name="sprite_toast">You choose sprite drink</string>
+    <string name="fanta_toast">You choose fanta drink</string>
+    <string name="grape_toast">You choose grape juice drink</string>
+    <string name="fries_toast">You choose french fries addition</string>
+    <string name="potato_toast">You choose patato wedges addition</string>
+    <string-array name="del_city">
+        <item>@string/choose_city_spinner</item>
+        <item>@string/holon_spinner</item>
+        <item>@string/tel_aviv_spinner</item>
+        <item>@string/jerusalem_spinner</item>
+    </string-array>
+    <string name="enter_city">Enter city</string>
+    <string name="enter_street">Enter street</string>
+    <string name="holon_spinner">Holon</string>
+    <string name="tel_aviv_spinner">Tel-Aviv</string>
+    <string name="jerusalem_spinner">Jerusalem</string>
+    <string name="choose_city_spinner">-choose branch-</string>
+    <string name="choose_str_spinner">You choose at branch</string>
+    <string name="choose_branch_spinner">choose branch in the spinner</string>
+    <string name="prices_list_main">Prices:</string>
+    <string name="burger_price_main">Burger: 40 NIS (one burder per order)</string>
+    <string name="drink_price_main">Drink: 12 NIS</string>
+    <string name="adds_price_main">Addition: 10 NIS</string>
+    <string name="enter_nums_drink">Enter the amount of drinks</string>
+    <string name="enter_nums_adds">Enter the amount of additions</string>
+    <string name="ok_btn">ok</string>
+    <string name="dialog_pickup_list">pickup from branch</string>
+    <string name="dialog_delivery_list">home delivery</string>
+    <string name="dialog_drink_det">drinks</string>
+    <string name="dialog_add_det">additions</string>
+    <string name="dialog_meal_det">"Meal: "</string>
+    <string name="dialog_burder_with">"burger with: "</string>
+    <string name="enter_number_toast">enter a number</string>
+    <string name="you_choose_toast">"choose "</string>
+    <string name="enter_branch_toast">choose branch</string>
+    <string name="burger_price_main1">Burger: 40 NIS (one burger per order)</string>
+    <string name="drink_price_main1">Drink: 12 NIS per drink</string>
+    <string name="addition_price_main">Addition: 10 NIS per addition</string>
+    <string name="nis_dialog">NIS</string>
+</resources>

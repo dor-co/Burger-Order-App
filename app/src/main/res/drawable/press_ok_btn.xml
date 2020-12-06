@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="false"
+        android:drawable="@drawable/ok_btn_main"/>
+    <item android:state_pressed="true">
+        <shape android:shape="rectangle">
+            <stroke android:width="2dp"
+                android:color="#434343"/>
+            <corners android:radius="50dp"/>
+
+            <gradient android:startColor="#2E2E2E"
+                android:endColor="#3951DF"
+                android:angle="90"/>
+
+        </shape>
+    </item>
+</selector>
